@@ -1,0 +1,71 @@
+SCALED											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.695652187	0.517153502	0.865277767	0.32573843	0.882499993	0.399554819	0.34375					
+FOURIER											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.782608688	0.882315278	1	0.003256962	1	0.004253661	0.25					
+HADAMARD											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.782608688	0.407229751	0.95194447	0.125590369	0.980000019	0.074934632	0.125					
+----------------------------											
+SCALED											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.695652187	0.537516832	0.856666684	0.340305418	0.862500012	0.332576036	0.46875					
+FOURIER											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.869565189	0.248177201	0.99444443	0.021802368	1	0.009046939	0.171875					
+HADAMARD											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.826086938	0.327598661	0.952222228	0.136599794	0.972500026	0.096981689	0.3125					
+----------------------------											
+SCALED											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.913043499	0.4668203	0.863333344	0.315345317	0.839999974	0.373144925	0.03125					
+FOURIER											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.869565189	0.431193799	0.98555553	0.047562912	1	0.005243353	0.140625					
+HADAMARD											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.826086938	0.768631339	0.951388896	0.133337423	0.954999983	0.098139092	0.390625					
+----------------------------											
+SCALED											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.826086938	0.462227941	0.918055534	0.196906179	0.917500019	0.213400021	0.234375					
+FOURIER											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.826086938	0.598385036	0.972777784	0.091547951	1	0.005316773	0.3125					
+HADAMARD											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.739130437	0.61687392	0.957222223	0.128842711	0.972500026	0.093655549	0.5					
+----------------------------											
+SCALED											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.739130437	1.715718985	0.722500026	0.698455155	0.769999981	0.645761192	0.34375					
+FOURIER											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.913043499	0.337980658	0.990555584	0.030705012	0.970000029	0.04701275	0.203125					
+HADAMARD											
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.782608688	0.370960265	0.957777798	0.109742172	0.985000014	0.073477924	0.328125					
+----------------------------											
+*********************************************************											
+SCALED	AVERAGE										
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.77391305	0.739887512	0.845166671	0.3753501	0.854499996	0.392887399	0.284375					
+SCALED	STANDARD	DEVIATION									
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.084307475	0.488768234	0.065156161	0.169427938	0.04933053	0.141585701	0.146708682					
+----------------------------											
+FOURIER	AVERAGE										
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.852173901	0.499610394	0.988666666	0.038975041	0.994000006	0.014174695	0.284375					
+FOURIER	STANDARD	DEVIATION									
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.044339306	0.223715494	0.009246954	0.029922358	0.011999989	0.016500244	0.146708682					
+----------------------------											
+HADAMARD	AVERAGE										
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.791304338	0.498258787	0.954111123	0.126822494	0.973000014	0.087437777	0.284375					
+HADAMARD	STANDARD	DEVIATION									
+Test	Acc	Test	Loss	Train	Acc	Train	Loss	Val_Acc	Val_Loss	Regression	Error
+0.032536143	0.167801635	0.002785544	0.009331417	0.010173506	0.010913031	0.146708682					
